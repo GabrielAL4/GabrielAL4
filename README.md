@@ -1,5 +1,5 @@
 
-int presentation(){                                                                                                                                                              
+int main(){                                                                                                                                                              
 ⠀⠀⠀int wsw=0;  ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀//wsw=Want to see my works?
   
 ⠀⠀⠀print("Wasup i'm Gabriel Albuquerque\n");                                                                                                                                      
