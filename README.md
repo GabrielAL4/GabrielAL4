@@ -7,7 +7,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-de-albuquerque-a1a7171b2/)
 [![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:albuquerque.gabriel0420@gmail.com)
 
-[!John's GIF](https://media.giphy.com/media/VrtvDMP4ajo5y/giphy.gif)
+[!John's GIF](https://media.giphy.com/media/zDulT7X7Jfj6yZOt8A/giphy.gif)
 
 ![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielAL4&show_icons=true&theme=cobalt)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielAL4&layout=compact&theme=cobalt)](https://github.com/GabrielAL4/GabrielAL4)
 
