@@ -22,3 +22,5 @@
 ![Snake animation](https://github.com/GabrielAL4/GabrielAL4/blob/output/github-contribution-grid-snake.svg)
 
 ![John's GIF](https://media.giphy.com/media/zDulT7X7Jfj6yZOt8A/giphy.gif)
+
+# Thank you! 
