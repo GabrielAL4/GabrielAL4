@@ -1,3 +1,4 @@
+![John's GIF](https://media.giphy.com/media/zDulT7X7Jfj6yZOt8A/giphy.gif)
 ### 🍄Hi, it's me... not mario.🍄
 ##  My name is (*not slim shady*) Gabriel, 
 ##  so i'm taking a bachelor degree at Information Systems,
@@ -20,5 +21,3 @@
 [![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)]()
 
 ![Snake animation](https://github.com/GabrielAL4/GabrielAL4/blob/output/github-contribution-grid-snake.svg)
-
-![John's GIF](https://media.giphy.com/media/zDulT7X7Jfj6yZOt8A/giphy.gif)
