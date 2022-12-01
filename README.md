@@ -9,7 +9,7 @@
 
 ![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielAL4&show_icons=true&theme=blue-green)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielAL4&layout=compact&theme=blue-green)](https://github.com/GabrielAL4/GabrielAL4)
 
-### Here's some technologies that i've already study.
+### Here's some technologies that i've already study:
 #
 
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)]()
