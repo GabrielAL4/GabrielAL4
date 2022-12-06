@@ -1,5 +1,5 @@
 ### 🍄Hi, it's me... not mario.🍄
-##  My name is (*not slim shady*) Gabriel, 
+##  My name is Gabriel, 
 ##  so i'm taking a bachelor degree at Information Systems,
 ##  hope you'd like my repos and enjoy it...
 
