@@ -23,4 +23,4 @@
 
 ![John's GIF](https://media.giphy.com/media/zDulT7X7Jfj6yZOt8A/giphy.gif)
 
-# Thank you! 🤘
+# Thank you! 🤘 
