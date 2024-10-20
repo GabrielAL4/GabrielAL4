@@ -20,7 +20,7 @@ I'm currently pursuing a degree in Information Systems, and I love to build inno
 
 - [Project 1 - Enterprise Cost Controller](https://github.com/GabrielAL4/enterprise-cost-controller-webservice): A system built in Java and Spring to manage enterprise costs efficiently.
 - [Project 2 - AI with Python](https://github.com/GabrielAL4/artificialIntelligence): Implementations of machine learning algorithms using Python.
-- [Project 3 - C++ Development](https://github.com/GabrielAL4/Desenvolvimento-CPP): Various C++ projects showcasing object-oriented programming skills.
+- [Project 3 - Leafy AI](https://github.com/GabrielAL4/Leafy-ai): AI Chatbot that uses a Ollama 3.1 LLM and connect to a knowdledge base into a Notion repository.
 
 ![Snake animation](https://github.com/GabrielAL4/GabrielAL4/blob/output/github-contribution-grid-snake.svg)
 
