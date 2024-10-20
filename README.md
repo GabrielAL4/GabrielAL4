@@ -22,7 +22,8 @@ I'm currently pursuing a degree in Information Systems, and I love to build inno
 - [Project 2 - AI with Python](https://github.com/GabrielAL4/artificialIntelligence): Implementations of machine learning algorithms using Python.
 - [Project 3 - Leafy AI](https://github.com/GabrielAL4/Leafy-ai): AI Chatbot that uses a Ollama 3.1 LLM and connect to a knowdledge base into a Notion repository.
 
-![Snake animation](https://github.com/GabrielAL4/GabrielAL4/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/GabrielAL4/GabrielAL4/blob/output/github-contribution-grid-snake.svg?color_snake=blue&color_dots=yellow&background=black)
+
 
 ![John's GIF](https://media.giphy.com/media/zDulT7X7Jfj6yZOt8A/giphy.gif)
 
